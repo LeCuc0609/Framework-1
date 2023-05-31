@@ -27,13 +27,6 @@
       "price": "400",
       "desc": "abc",
       "image": "https://picsum.photos/200"
-    },
-    {
-      "id": 5,
-      "name": "product 5",
-      "price": "500",
-      "desc": "abc",
-      "image": "https://picsum.photos/200"
     }
   ]
 }
